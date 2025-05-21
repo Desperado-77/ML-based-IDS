@@ -3,6 +3,8 @@
 
 A **Machine Learning-based Intrusion Detection System** with a customized PySide6 GUI interface. The system visualizes data distributions, supports multiple ML model evaluation, and presents comparison metrics like accuracy, false positive rate, and more.
 
+![image](https://github.com/user-attachments/assets/d08b79ca-d48b-4859-b2c9-389e87c52ffd)
+
 ---
 
 ## 🚀 Features
